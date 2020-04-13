@@ -1,7 +1,7 @@
 {
   "name": "wechat-ts-sdk",
-  "version": "1.0.5",
-  "description": "微信开发者 JSSDK NPM 版",
+  "version": "1.6.0",
+  "description": "微信开发者 官方 JSSDK TS 版",
   "main": "index.js",
   "type": "index.d.ts",
   "scripts": {
@@ -16,9 +16,12 @@
     "weixin",
     "share",
     "js",
+    "ts",
     "sdk",
     "jssdk",
+    "1.6.0",
     "微信",
+    "官方",
     "分享"
   ],
   "author": "benwk",

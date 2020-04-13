@@ -9,17 +9,17 @@
 安装：
 
 ```
-npm install wechat-jsdk --save
+npm install wechat-ts-sdk --save
 ```
 
 或
 
 ```
-yarn add wechat-jsdk
+yarn add wechat-ts-sdk
 ```
 
 引用：
 
 ```
-var wx = require('wechat-jsdk');
+import wx from 'wechat-ts-sdk';
 ```

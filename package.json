@@ -1,0 +1,26 @@
+{
+  "name": "wechat-js-sdk",
+  "version": "1.0.0",
+  "description": "微信开发者 JS-SDK NPM 版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwk/wechat-js-sdk.git"
+  },
+  "keywords": [
+    "wechat",
+    "weixin",
+    "js",
+    "sdk",
+    "jssdk"
+  ],
+  "author": "benwk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benwk/wechat-js-sdk/issues"
+  },
+  "homepage": "https://github.com/benwk/wechat-js-sdk#readme"
+}

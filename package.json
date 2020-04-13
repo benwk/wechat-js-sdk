@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "微信开发者 JSSDK NPM 版",
   "main": "index.js",
+  "type": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,11 +14,15 @@
   "keywords": [
     "wechat",
     "weixin",
+    "share",
     "js",
     "sdk",
-    "jssdk"
+    "jssdk",
+    "微信",
+    "分享"
   ],
   "author": "benwk",
+  "email": "z@benwk.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/benwk/wechat-js-sdk/issues"

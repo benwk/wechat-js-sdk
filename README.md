@@ -1,4 +1,4 @@
-# 微信开发者 JS-SDK NPM 版
+# 微信开发者 JSSDK NPM 版
 
 版本：官方 1.6.0
 
@@ -9,11 +9,17 @@
 安装：
 
 ```
-npm install wechat-js-sdk
+npm install wechat-jsdk --save
+```
+
+或
+
+```
+yarn add wechat-jsdk
 ```
 
 引用：
 
 ```
-var wx = require('wechat-js-sdk');
+var wx = require('wechat-jsdk');
 ```

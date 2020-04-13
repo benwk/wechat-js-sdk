@@ -7,7 +7,7 @@
  * Wechat js file: https://res.wx.qq.com/open/js/jweixin-1.6.0.js
  */
 
-declare module "wechat-jsdk"{
+declare module "wechat-ts-sdk"{
   let wx: any;
   export default wx;
 }

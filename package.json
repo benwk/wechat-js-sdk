@@ -1,6 +1,6 @@
 {
   "name": "wechat-ts-sdk",
-  "version": "1.6.0",
+  "version": "1.4.0",
   "description": "微信开发者 官方 JSSDK TS 版",
   "main": "index.js",
   "type": "index.d.ts",
